@@ -1,0 +1,8 @@
+Upload all four files to the root of your welcome-nina GitHub repository:
+- index.html
+- favicon.png
+- inspiration-photo.png
+- editorial-photo.png
+
+Replace the existing index.html. Do not rename the files.
+The visible page design is unchanged; only embedded images were moved into separate files.
